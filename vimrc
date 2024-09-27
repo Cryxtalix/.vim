@@ -2,16 +2,16 @@
 set nocompatible
 set encoding=utf-8
 set wrap
-set number
+set number relativenumber
 set laststatus=2
 set hlsearch
 set incsearch
 
 " Typing
 set tabstop=8
-set softtabstop=-1
-set shiftwidth=0
 set expandtab
+set shiftwidth=8
+set softtabstop=8
 
 " Code
 syntax on
